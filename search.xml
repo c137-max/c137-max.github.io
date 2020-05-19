@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2020/05/19/test/"/>
+      <url>/2020/05/19/test/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是一篇测试文章"><a href="#这是一篇测试文章" class="headerlink" title="这是一篇测试文章"></a>这是一篇测试文章</h2><h3 id="hi"><a href="#hi" class="headerlink" title="hi"></a>hi</h3><h3 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h3><h2 id="文章末尾"><a href="#文章末尾" class="headerlink" title="文章末尾"></a>文章末尾</h2><h3 id="Have-a-nice-day"><a href="#Have-a-nice-day" class="headerlink" title="Have a nice day!"></a>Have a nice day!</h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2020/05/17/hello-world/"/>
       <url>/2020/05/17/hello-world/</url>
